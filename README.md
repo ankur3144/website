@@ -14,7 +14,7 @@
 
 ### Colors
 
-  * Background Color: #1C1A30
+  * Background Color: #A9A9A9
   * Text-color :  #00FF22
                   #FFFFFF 50%
                   #6B4FBB
